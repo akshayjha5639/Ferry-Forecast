@@ -292,4 +292,5 @@ with tab3:
 
 # ── Footer ─────────────────────────────────────────────────────────────
 st.markdown("---")
-st.markdown("*Toronto Island Ferry Demand Forecasting — Capstone Project*")
+st.markdown("*Toronto Island Ferry Demand Forecasting Project*")
+
