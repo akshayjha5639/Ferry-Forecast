@@ -96,11 +96,9 @@ ferry-forecast-app/
 │   ├── feature_cols.pkl          ← Feature column names
 │   └── ferry_data.csv            ← Cleaned dataset
 │
-├── notebooks/
-│   └── ferry_forecasting.ipynb   ← Full analysis notebook (Colab)
+├──  ferry_forecasting.ipynb   ← Full analysis notebook (Colab)
 │
-└── research/
-    └── Ferry_Forecast_Research_Paper.docx   ← Full research paper
+└── Ferry_Forecast_Research_Paper.docx   ← Full research paper
 ```
  
 ---
