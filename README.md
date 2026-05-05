@@ -47,29 +47,6 @@ Prophet underperformed significantly due to its smooth additive decomposition be
 🔍 Actuals vs Predicted — Day-level evaluation + residuals
 📋 Model comparison — MAE/RMSE bar charts for all models
 
-
-📁 Repository Structure
-ferry-forecast-app/
-│
-├── app.py                        ← Streamlit dashboard
-├── requirements.txt              ← Python dependencies
-├── README.md                     ← This file
-│
-├── models/
-│   ├── gb_model.pkl              ← Gradient Boosting (best model)
-│   ├── rf_model.pkl              ← Random Forest
-│   └── xgb_model.pkl            ← XGBoost
-│
-├── data/
-│   ├── feature_cols.pkl          ← Feature column names
-│   └── ferry_data.csv            ← Cleaned dataset
-│
-├── notebooks/
-│   └── ferry_forecasting.ipynb   ← Full analysis notebook (Colab)
-│
-└── research/
-    └── Ferry_Forecast_Research_Paper.docx   ← Full research paper
-
 📄 Research Paper
 The complete research paper is available in this repository under /research/Ferry_Forecast_Research_Paper.docx.
 Title: Short-Term Demand Forecasting for Toronto Island Ferry Operations — A Comparative Study of Statistical and Machine Learning Approaches
