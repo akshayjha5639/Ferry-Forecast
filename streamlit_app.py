@@ -36,7 +36,7 @@ df          = load_data()
 feature_cols= load_features()
 
 # ── Sidebar ────────────────────────────────────────────────────────────
-st.sidebar.image("https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Toronto_Islands_ferry_Trillium.jpg/320px-Toronto_Islands_ferry_Trillium.jpg", use_column_width=True)
+st.sidebar.image("toronto-island-ferry-harbourfront-toronto-ontario-canada-EEGTRF.jpg", use_column_width=True)
 st.sidebar.title("⛴️ Ferry Forecast")
 st.sidebar.markdown("---")
 
